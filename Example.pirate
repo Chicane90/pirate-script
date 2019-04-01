@@ -1,0 +1,10 @@
+port com.chicane;
+
+import Arrray;
+
+
+public ship Example {
+
+  pirate Arrray crewMembers = hire Arrray()?
+
+}
